@@ -8,7 +8,7 @@ We're looking into the temperature data in Hawaii to help our potential investor
 ### Comparisons
 - June has a slightly higher mean temperature at 74.94 while December is at 71.04.
 - Decemeber has a much lower low than June at 56 while June's only goes down to 64.
-- The highs are fairly close with June at 85 and Decemeber only slightly lower at 53
+- The highs are fairly close with June at 85 and Decemeber only slightly lower at 83
 
 ## Summary
 While the means and max temperatures are fairly high, June has a higher varience in temperature causing a little more volatility in the weather potentially being cold enought for ice cream. However, the mean of both months is above room temperature (68 fahrenheit) so on average both months shouldn't be too cold and ice cream and surfing could be viable.
