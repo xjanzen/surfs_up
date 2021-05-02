@@ -4,9 +4,7 @@ We're looking into the temperature data in Hawaii to help our potential investor
 
 ## Results
 ### Data
-![June Temperatures](Resources/JuneTemps.png)
-
-![December Temperatures](Resources/DecTemps.png)
+![June Temperatures](Resources/JuneTemps.png) ![December Temperatures](Resources/DecTemps.png)
 ### Comparisons
 - June has a slightly higher mean temperature at 74.94 while December is at 71.04.
 - Decemeber has a much lower low than June at 56 while June's only goes down to 64.
