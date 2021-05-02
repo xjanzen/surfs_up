@@ -12,6 +12,7 @@ We're looking into the temperature data in Hawaii to help our potential investor
 
 ## Summary
 While the means and max temperatures are fairly high, December has a higher variance in temperature causing a little more volatility in the weather potentially causing people to think it's too cold for ice cream. However, the mean of both months is above room temperature (68 fahrenheit) so on average both months shouldn't be too cold and ice cream and surfing could be viable.
+
 Another point of data you may want to look into is the precipitation. Tourists are usually put off doing activities outdoors when it's raining in general and ice cream may not be top of the list for some people with water coming down. So you may want to run some very similar pieces of code that look at the same data we looked at for temperature but for the precipitation:
 ```
 june_prcp = session.query(Measurement.prcp).filter(Measurement.date.contains('-06-')).all()
